@@ -1,185 +1,150 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C2BD9,50:7C3AED,100:2563EB&height=200&section=header&text=Kevin%20Ribeiro&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Software%20Engineer&descAlignY=55&descSize=20"/>
+# `KEVIN.RIBEIRO`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=.NET+%7C+C%23+%7C+Cloud+%7C+Distributed+Systems;Building+scalable+and+resilient+backend+solutions;APIs+%7C+Microservices+%7C+Messaging+%7C+Observability)](https://git.io/typing-svg)
+### Backend Software Engineer • .NET • Cloud • Distributed Systems
+
+```txt
+STATUS   :: ONLINE
+RUNTIME  :: C# / .NET
+REGION   :: São Paulo, BR
+FOCUS    :: APIs • Messaging • Reliability • Architecture
+```
 
 </div>
 
 ---
 
-## 👨‍💻 About me
+> **Visual direction:** dark, sharp and minimal — inspired by manga/anime key art with **black / off-white / crimson / electric blue** accents.  
+> If you want, upload one of your chosen images to an `assets/` folder in this repo and uncomment the banner section below.
 
-```csharp
-public class KevinRibeiro
+<!--
+<div align="center">
+  <img src="./assets/banner-bankai.jpg" width="100%" alt="banner" />
+</div>
+-->
+
+## `GET /about`
+
+```json
 {
-    public string Role => "Backend Software Engineer";
-
-    public string[] MainStack =>
-    [
-        "C#",
-        ".NET",
-        "ASP.NET Core",
-        "REST APIs",
-        "Microservices"
-    ];
-
-    public string[] Cloud =>
-    [
-        "AWS",
-        "Azure",
-        "Docker",
-        "Terraform"
-    ];
-
-    public string[] Interests =>
-    [
-        "Distributed Systems",
-        "Software Architecture",
-        "Cloud Computing",
-        "Performance",
-        "Reliability"
-    ];
-
-    public string CurrentFocus =>
-        "Building scalable, resilient and maintainable backend systems.";
+  "name": "Kevin Ribeiro",
+  "role": "Backend Software Engineer",
+  "main_stack": ["C#", ".NET", "ASP.NET Core", "SQL Server", "AWS", "Azure"],
+  "specialties": [
+    "REST APIs",
+    "Distributed Systems",
+    "Microservices",
+    "Async Processing",
+    "Messaging",
+    "Observability"
+  ],
+  "current_focus": "Building scalable, resilient and maintainable backend systems."
 }
 ```
 
-Backend Software Engineer focused on **C#/.NET**, distributed systems, APIs and cloud-native applications.
+I'm a backend-focused software engineer with hands-on experience in **financial systems, e-commerce, payment integrations, cloud services and asynchronous processing**.
 
-I have experience working with financial systems, e-commerce, payment integrations, asynchronous messaging, production support and modernization of legacy applications.
-
-I enjoy solving problems involving **scalability, reliability, performance and software architecture**.
+What I enjoy most is working on problems involving **system design, performance, resiliency, production support and architecture evolution**.
 
 ---
 
-## ⚙️ Tech Stack
+## `GET /stack`
 
 ### Backend
-
-<div>
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-6C2BD9?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-</div>
+![C#](https://img.shields.io/badge/C%23-1a1a1a?style=for-the-badge&logo=csharp&logoColor=E11D48)
+![.NET](https://img.shields.io/badge/.NET-111827?style=for-the-badge&logo=dotnet&logoColor=60A5FA)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-111827?style=for-the-badge&logo=dotnet&logoColor=F8FAFC)
+![Java](https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge&logo=openjdk&logoColor=E11D48)
 
 ### Architecture & Integration
-
-<div>
-
-![REST API](https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge&logo=swagger&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-7C3AED?style=for-the-badge)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Amazon SQS](https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
-</div>
+![REST APIs](https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge&logo=swagger&logoColor=60A5FA)
+![Microservices](https://img.shields.io/badge/Microservices-1a1a1a?style=for-the-badge&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-111827?style=for-the-badge&logo=apachekafka&logoColor=F8FAFC)
+![Amazon SQS](https://img.shields.io/badge/Amazon_SQS-1a1a1a?style=for-the-badge&logo=amazonsqs&logoColor=E11D48)
+![Swagger](https://img.shields.io/badge/Swagger-111827?style=for-the-badge&logo=swagger&logoColor=60A5FA)
 
 ### Databases & Data
-
-<div>
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-</div>
+![SQL Server](https://img.shields.io/badge/SQL_Server-1a1a1a?style=for-the-badge&logo=microsoftsqlserver&logoColor=E11D48)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=for-the-badge&logo=mysql&logoColor=F8FAFC)
+![Oracle](https://img.shields.io/badge/Oracle-111827?style=for-the-badge&logo=oracle&logoColor=E11D48)
+![Redis](https://img.shields.io/badge/Redis-1a1a1a?style=for-the-badge&logo=redis&logoColor=F8FAFC)
 
 ### Cloud & DevOps
-
-<div>
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-</div>
+![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonwebservices&logoColor=60A5FA)
+![Azure](https://img.shields.io/badge/Azure-1a1a1a?style=for-the-badge&logo=microsoftazure&logoColor=E11D48)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=60A5FA)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1a1a?style=for-the-badge&logo=kubernetes&logoColor=F8FAFC)
+![Terraform](https://img.shields.io/badge/Terraform-111827?style=for-the-badge&logo=terraform&logoColor=E11D48)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-1a1a1a?style=for-the-badge&logo=githubactions&logoColor=60A5FA)
 
 ### Observability
-
-<div>
-
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-
-</div>
+![Grafana](https://img.shields.io/badge/Grafana-111827?style=for-the-badge&logo=grafana&logoColor=E11D48)
+![Datadog](https://img.shields.io/badge/Datadog-1a1a1a?style=for-the-badge&logo=datadog&logoColor=60A5FA)
 
 ### Frontend
-
-<div>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-</div>
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=60A5FA)
+![Angular](https://img.shields.io/badge/Angular-1a1a1a?style=for-the-badge&logo=angular&logoColor=E11D48)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=F8FAFC)
 
 ---
 
-## 🧠 Engineering Focus
+## `GET /experience`
 
-```text
-Backend Development
+```txt
+DOMAINS
+├── Financial Systems
+├── E-commerce
+├── Payment Integrations
+├── Legacy Modernization
+└── Production Support
+
+ENGINEERING FOCUS
 ├── REST APIs
-├── Microservices
 ├── Distributed Systems
 ├── Async Processing
 ├── Messaging
-├── System Integration
-└── Performance & Reliability
-
-Cloud
-├── AWS
-├── Azure
-├── Serverless
-├── Containers
-└── Infrastructure as Code
-
-Architecture
-├── Clean Architecture
-├── SOLID
-├── Design Patterns
-├── Resilience
+├── Cloud Architecture
 └── Observability
 ```
 
 ---
 
-## 📊 GitHub
+## `GET /projects`
+
+### ResumeMatcher
+A SaaS/MVP focused on comparing resumes against job descriptions, generating match analysis and helping optimize resumes without inventing experiences.
+
+### Alethe Fork / Study
+Exploring a multi-agent coding workspace to understand orchestration, developer workflow and local-first tooling patterns.
+
+> **Tip:** pin your strongest repositories on your profile.  
+> A good README without strong pinned repos is half-finished work.
+
+---
+
+## `GET /stats`
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinRibeiroo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=3B82F6&text_color=C9D1D9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinRibeiroo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"/>
-
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KevinRibeiroo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E11D48&icon_color=60A5FA&text_color=F8FAFC"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinRibeiroo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E11D48&text_color=F8FAFC"/>
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=KevinRibeiroo&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=3B82F6&currStreakLabel=8B5CF6)
+![GitHub Streak](https://streak-stats.demolab.com?user=KevinRibeiroo&theme=tokyonight&hide_border=true&background=0D1117&ring=E11D48&fire=60A5FA&currStreakLabel=F8FAFC)
 
 </div>
 
 ---
 
-## 🤝 Connect with me
+## `GET /contact`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Ribeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinribeiroandrade)
-
-[![Email](https://img.shields.io/badge/Email-kevinribeirodeandrade-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinribeirodeandrade@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Ribeiro-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://www.linkedin.com/in/kevinribeiroandrade)
+[![Email](https://img.shields.io/badge/Email-kevinribeirodeandrade-1a1a1a?style=for-the-badge&logo=gmail&logoColor=E11D48)](mailto:kevinribeirodeandrade@gmail.com)
 
 </div>
 
@@ -187,8 +152,6 @@ Architecture
 
 <div align="center">
 
-### `Building reliable software, one service at a time.`
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:6C2BD9&height=120&section=footer"/>
+### `Building reliable software under pressure.`
 
 </div>
