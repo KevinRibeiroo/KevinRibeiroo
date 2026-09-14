@@ -15,14 +15,10 @@ FOCUS    :: APIs • Messaging • Reliability • Architecture
 
 ---
 
-> **Visual direction:** dark, sharp and minimal — inspired by manga/anime key art with **black / off-white / crimson / electric blue** accents.  
-> If you want, upload one of your chosen images to an `assets/` folder in this repo and uncomment the banner section below.
-
-<!--
 <div align="center">
-  <img src="./assets/banner-bankai.jpg" width="100%" alt="banner" />
+  <img src="./assets/banner.jpg" width="100%" alt="Kevin Ribeiro — Backend Software Engineer" />
 </div>
--->
+
 
 ## `GET /about`
 
